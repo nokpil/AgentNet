@@ -1,7 +1,16 @@
 # AOUP
 
 ## Attention x
-[x.pdf](https://github.com/nokpil/AgentNet/files/5289640/x.pdf)
+![x-1](https://user-images.githubusercontent.com/58059577/94384960-d1112180-017e-11eb-87d2-1a639dfc3dfc.png)
+
+## Attention y
+![y-1](https://user-images.githubusercontent.com/58059577/94384963-d40c1200-017e-11eb-9537-1681a126f8d2.png)
+
+## Attention vx
+![vx-1](https://user-images.githubusercontent.com/58059577/94384968-d7070280-017e-11eb-9d9c-6c2a1c598fa7.png)
+
+## Attention vy
+![vy-1](https://user-images.githubusercontent.com/58059577/94384975-da01f300-017e-11eb-9654-b6ef16670646.png)
 
 # Chimney Swift
 
