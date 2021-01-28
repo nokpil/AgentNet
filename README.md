@@ -1,5 +1,6 @@
 # AgentNet
 Pytorch implementation of AgentNet, which is designed for reveal hidden interactions and predict future dynamics of the unknown complex system.
+Paper : https://arxiv.org/abs/2001.02539
 
 ## model
 - AgentNet architectures for each model, Cellular Automata (CA), Vicsek model (VC), Active Ornstein-Uhlenbeck Particle(AOUP), and Chimney Swift flock (CS). 
