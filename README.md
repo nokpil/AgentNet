@@ -16,7 +16,7 @@ Paper : https://arxiv.org/abs/2001.02539
 - Generates training/test dataset for the model systems.
 - Produced dataset needs to be placed in './data/{CA, Vicsek, AOUP}', respectively for further training.
 
-## data_generation
+## data_generation_cs
  - This code needs pre-processed system data from the original chimney swift trajectory data (Evangelista, D. J. et al., Three-dimensional trajectories and network analyses of group behaviour within chimney swift flocks during approaches to the roost, 2017, https://royalsocietypublishing.org/doi/full/10.1098/rspb.2016.2602). 
 - The pre-procssed data is uploaded at (), and needs to be placed in './data/Flock/system'
 - The produced dataset needs to be placed in './data/Flock/dataset'for further training.
